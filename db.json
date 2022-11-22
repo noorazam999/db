@@ -2,10 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "noor azam"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "azam chadhar"
   }
 }
